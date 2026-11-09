@@ -1,0 +1,17 @@
+# Local secrets and environments
+.env
+.venv/
+
+# OS and Python-generated files
+.DS_Store
+*.swp
+*.swo
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+mcp_log/
+
+# Pipeline outputs
+mcp_result/
